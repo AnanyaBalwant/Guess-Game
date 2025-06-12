@@ -20,7 +20,7 @@ Guess the lucky number between **1 and 50** within **3 attempts**, and enjoy sof
 1. **Clone the repository** or **download the ZIP**:
 
 ```bash
-git clone https://github.com/your-username/cherry-blossom-guess-game.git
+git clone https://github.com/AnanyaBalwant/Guess-Game.git
 
 2. Open the folder in VS Code or any code editor.
 
@@ -30,7 +30,7 @@ Run the game:
 
 That’s it — no installs or frameworks needed!
 
-📦 Technologies Used
+## 📦 Technologies Used
 
 HTML5
 
@@ -38,7 +38,7 @@ CSS3
 
 JavaScript (Vanilla)
 
-🧡 Credits
+##🧡 Credits
 This project was built for fun and practice. Inspired by the calm and beauty of cherry blossom trees.
 Built with pure HTML, CSS, and JavaScript.
 
